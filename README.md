@@ -58,7 +58,8 @@ Passionate about decentralized systems and cloud-native architectures, I’m eag
 ---
 
 ## 📫 Let’s Connect  
-- **Email**: [tony.nagy.europe@gmail.com](mailto:tony.nagy.europe@gmail.com)  
+- **Email**: [info@tonynagy.io](mailto:info@tonynagy.io)
+- **Portfolio site**: [https://www.tonynagy.io](https://www.tonynagy.io)  
 - **LinkedIn**: [antal-nagy-2761518b](https://www.linkedin.com/in/antal-nagy-2761518b)  
 - **GitHub**: You're already here—explore my [repos](https://github.com/tonynagyeurope?tab=repositories)!  
 - **Location**: Eger, Hungary 🇭🇺  
