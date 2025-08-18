@@ -10,7 +10,7 @@ Passionate about decentralized systems and cloud-native architectures, I’m eag
 ## 🛠️ Skills & Technologies  
 - **Languages**: Solidity, TypeScript, JavaScript, Java, SQL, Delphi/Object Pascal
 - **Frameworks & Tools**: AWS, Git, CI/CD, Node.js, React, Maven, Shopify, Elasticsearch  
-- **Databases**: PostgreSQL, Oracle, MS SQL Server  
+- **Databases**: PostgreSQL, DynamoDB  
 - **Blockchain**: Smart contract development, middleware applications  
 - **DevOps**: Linux, Kanban, Agile, Team Leadership  
 - **Other**: Database design, ERP systems, e-learning platforms  
