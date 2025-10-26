@@ -1,19 +1,19 @@
 # Antal (Tony) Nagy  
-### IT Software Engineer | Tech Leader | Blockchain Enthusiast
+### IT Software Engineer | Tech Leader | AI & Blockchain Enthusiast
 
-Hi, I’m Tony — an IT Software Engineer with over 20 years of experience crafting innovative solutions. As **Head of IT Development Department** at *Eszterházy Károly Catholic University (EKCU)* in Eger, Hungary, I lead cutting-edge projects and drive technical excellence. I’m also the co-founder of [Imagella.com](https://imagella.com/), where I build smart contracts and scalable web platforms using Solidity, TypeScript, Node.js, and AWS services such as Lambda, S3, and API Gateway.
+Hi, I’m Tony — an IT Software Engineer with over 20 years of experience crafting innovative solutions. As **Head of IT Development Department** at *Eszterházy Károly Catholic University (EKCU)* in Eger, Hungary, I lead cutting-edge projects and drive technical excellence. I’m also the co-founder of [Imagella.com](https://imagella.com/), where I build smart contracts and scalable web platforms using TypeScript, Node.js, Solidity and AWS services such as Lambda, S3, and API Gateway.
 
-Passionate about decentralized systems and cloud-native architectures, I’m eager to create impactful, future-ready solutions for forward-thinking companies. When I’m not coding, you’ll find me exploring new IT technologies, reading, playing sports, or fishing.
+Passionate about AI automation, decentralized systems and cloud-native architectures, I’m eager to create impactful, future-ready solutions for forward-thinking companies. When I’m not coding, you’ll find me exploring new IT technologies, reading, playing sports, or fishing.
 
 ---
 
 ## 🛠️ Skills & Technologies  
-- **Languages**: Node.js, TypeScript, Solidity, Java, SQL, Delphi/Object Pascal
+- **Languages**: TypeScript, JavaScript, Solidity, Java, SQL, Delphi/Object Pascal
 - **Frameworks & Tools**: AWS, Git, CI/CD, Node.js, React, Maven, Shopify, Elasticsearch  
 - **Databases**: PostgreSQL, DynamoDB  
 - **Blockchain**: Smart contract development, middleware applications  
 - **DevOps**: Linux, Kanban, Agile, Team Leadership  
-- **Other**: Database design, ERP systems, e-learning platforms  
+- **Other**: AI Automation, GenAI, Database design, e-learning platforms  
 
 ---
 
